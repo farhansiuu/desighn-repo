@@ -109,3 +109,21 @@ color: brown;
 .maal:hover{
     background-color: antiquewhite;
 }
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(63, 92, 119);
+    padding: 20px;
+}
+footer input[type="text"]{
+    height: 50px;
+    border-radius: 5px;
+    background-color: white;
+    width: 200%;
+    display: block;
+}
+.content-conteiner{
+    align-items: center;
+    text-align: center;
+}
